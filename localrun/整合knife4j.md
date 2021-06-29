@@ -1,6 +1,7 @@
 ## 整合knife4j 修改
 
-> 注意knife4j 版本改成3.0.3 可以模拟oauth2登陆
+> 注意knife4j 版本改成3.0.3 可以模拟oauth2登陆  
+> 官方文档: https://gitee.com/xiaoym/knife4j
 
 1. 最外层pom 添加 <swagger.knife4j.version>3.0.3</swagger.knife4j.version>
 
